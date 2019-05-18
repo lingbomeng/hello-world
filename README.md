@@ -1,9 +1,6 @@
 # hello-world
 This is a hello-world repository for myself.
 
-# hello-world
-This is a hello-world repository for myself.
-
 I am trying to make and commit changes for my newly created branch named readme-edits. The official guide is as follows:
 
 Make and commit changes
